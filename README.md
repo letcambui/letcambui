@@ -1,7 +1,7 @@
-# Hello world! :earth_americas:
+# Olá, mundo!! :earth_americas:
 
-## My name is Letícia, and here is where you found my projects. I just start my career transiton. Well, for now that's it. :blush:
+### Me chamo Letícia e aqui vocês encontram meus projetos. Estou iniciando a minha transição de carreira :blush:
 
-:chart_with_upwards_trend: I’m working on accounting
+:chart_with_upwards_trend: Trabalho com contabilidade
 
-:star2: I’m currently learning HTML, CSS ans JavaScript.
+:star2: Estou estudando HTML, CSS, e Javascript.
