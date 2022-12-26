@@ -1,5 +1,5 @@
 <div >
-<h1> Olá, mundo!! :earth_americas: <h1>
+<h1> <img src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="100px" heigth="100px">Olá, mundo!! <h1>
 <div align="end">
 </div>
 
@@ -22,8 +22,6 @@
  <div>
    <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-   
- 
  </div>
   
  
