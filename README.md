@@ -20,7 +20,11 @@
  ##
  
  <div>
- <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank">
+   
+ 
  </div>
+  
  
  </div>
