@@ -17,7 +17,7 @@
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letcambui&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -26,7 +26,7 @@
   
 
  
- <div >
+ <div align="center">
     <h2> Me encontre nas redes sociais </h2>
    <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
