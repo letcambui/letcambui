@@ -1,4 +1,11 @@
 # Olá, mundo!! :earth_americas:
+
+<div align="center">
+  <a href="https://github.com/letcambui">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=letcambui&hide=stars,prs,contribs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letcambui&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+
 <img src="https://cdn.picrew.me/shareImg/org/202212/1706331_cakK4RFp.png" width="150px" height="150px" />
 
 ### Aqui vocês encontram meus projetos :blush:
