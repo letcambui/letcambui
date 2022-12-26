@@ -1,6 +1,8 @@
-<div >
-<h1> <img src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="100px" heigth="100px">Olá, mundo!! <h1>
-<div align="end">
+<div>
+<div>
+<h1> <img src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="100px" heigth="100px">Olá, mundo. </h1>
+
+<p> Me chamo Letícia, sou pós-graduanda em Análise e Desenvolvimento de Programas :robot:</p>
 </div>
 
 
@@ -17,12 +19,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
  </div>
   
- ##
+
  
- <div>
+ <div align="center">
+    <h2> Me encontre nas redes sociais </h2>
    <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
- </div>
+   </div>
   
  
  </div>
