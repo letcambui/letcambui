@@ -1,5 +1,5 @@
 
-<img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="100px" heigth="100px">
+<img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3860&width=435&lines=Ol%C3%A1%2C+mundo.)
 
@@ -8,7 +8,8 @@
 
 <p> Me chamo Letícia, sou pós-graduanda em Análise e Desenvolvimento de Programas :robot:</p>
 
-
+<br />
+<br />
 
 <div align="center">
   <a href="https://github.com/letcambui">
