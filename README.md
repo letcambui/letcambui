@@ -1,7 +1,6 @@
 <div >
 <h1> Olá, mundo!! :earth_americas: <h1>
 <div align="end">
-<img src="https://cdn.picrew.me/shareImg/org/202212/1706331_cakK4RFp.png" width="150px" height="150px" />
 </div>
 
 
