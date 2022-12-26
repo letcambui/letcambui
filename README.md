@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <div>
 <h1> <img src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="100px" heigth="100px">Olá, mundo. </h1>
 
@@ -6,7 +6,7 @@
 </div>
 
 
-<div align="center">
+<div>
   <a href="https://github.com/letcambui">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=letcambui&hide=stars,prs,contribs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letcambui&layout=compact&langs_count=7&theme=buefy"/>
@@ -21,7 +21,7 @@
   
 
  
- <div align="center">
+ <div>
     <h2> Me encontre nas redes sociais </h2>
    <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
