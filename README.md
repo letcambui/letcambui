@@ -1,7 +1,7 @@
 
 <img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3860&width=435&lines=Ol%C3%A1%2C+mundo.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4B2685&background=1BDCFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+mundo.)](https://git.io/typing-svg)
 
 <br />
 <br />
