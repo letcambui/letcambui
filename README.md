@@ -27,7 +27,7 @@
 
 <img align="right" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -36,7 +36,7 @@
   
 
  
- <div align="center">
+ <div align="left">
     <h2> Me contate por aqui </h2>
    <a href="https://instagram.com/leticiacambui_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
