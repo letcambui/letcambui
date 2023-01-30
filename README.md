@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
+<img align="right" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
