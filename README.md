@@ -10,8 +10,8 @@
 - Pós graduanda em Análise e Desenvolvimento de Sistemas :space_invader:<br>
 - Atualmente trabalho como Assistente Contábil :heavy_dollar_sign: <br>
 - Amo praia, suco de laranja e água de coco 🥥  <br>
-- Formada dev front-end pelo Ciclo Formativo Básico em Tecnologia - Olabi 👩‍💻: <br>
-- Participando do CS50's Web Programming with Python and JavaScript 👩‍🎓 <br>
+- Formada dev front-end pelo Ciclo Formativo Básico em Tecnologia - Olabi 👩‍🎓 <br>
+- Participando do CS50's Web Programming with Python and JavaScript 👩‍💻 <br>
  </div>
  <br /> <br />
   
