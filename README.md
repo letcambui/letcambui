@@ -1,16 +1,24 @@
-
 <img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4B2685&background=1BDCFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+mundo.)](https://git.io/typing-svg)
 
-<br />
-<br />
-
-<p> Me chamo Letícia, sou pós-graduanda em Análise e Desenvolvimento de Programas :robot:</p>
 
 <br />
 <br />
 
+
+<div>
+- Pós graduanda em Análise e Desenvolvimento de Sistemas  <br>
+- Atualmente trabalho como Assistente Contábil <br>
+- Amo praia, suco de laranja e água de coco  <br>
+- Formada dev front-end pelo Ciclo Formativo Básico em Tecnologia - Olabi <br>
+- Participando do CS50's Web Programming with Python and JavaScript <br>
+
+
+</div>
+
+<br />
+<br />
 
 
 <div align="center" style="display: inline_block"><br>
