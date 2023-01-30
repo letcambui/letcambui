@@ -1,18 +1,17 @@
-<img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4B2685&background=1BDCFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+mundo.)](https://git.io/typing-svg)
-
+<div align="center">
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=35&duration=4997&pause=1000&color=D73CBFC8&background=FDE7FF00&width=435&lines=Ol%C3%A1%2C+mundo+!" alt="Typing SVG" /></a>
+ </div>
 
 <br />
 <br />
 
 
 <div>
-- Pós graduanda em Análise e Desenvolvimento de Sistemas  <br>
-- Atualmente trabalho como Assistente Contábil <br>
-- Amo praia, suco de laranja e água de coco  <br>
-- Formada dev front-end pelo Ciclo Formativo Básico em Tecnologia - Olabi <br>
-- Participando do CS50's Web Programming with Python and JavaScript <br>
+- Pós graduanda em Análise e Desenvolvimento de Sistemas :space_invader:<br>
+- Atualmente trabalho como Assistente Contábil :heavy_dollar_sign: <br>
+- Amo praia, suco de laranja e água de coco 🥥  <br>
+- Formada dev front-end pelo Ciclo Formativo Básico em Tecnologia - Olabi 👩‍💻: <br>
+- Participando do CS50's Web Programming with Python and JavaScript 👩‍🎓 <br>
 
 
 </div>
@@ -20,6 +19,7 @@
 <br />
 <br />
 
+<img align="left" alt="icon-Leticia" src="https://cdn.picrew.me/shareImg/org/202212/1706331_RLyjMdIO.png" width="200px" heigth="200px">
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
