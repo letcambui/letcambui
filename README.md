@@ -38,9 +38,9 @@
  
  <div align="left">
     <h2> Me contate por aqui </h2>
-   <a href="https://instagram.com/leticiacambui_" target="_blank"> <img height="30em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
-   <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img height="30em" src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" target="_blank"/></a>
-   <img height="30em" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"/ >
+   <a href="https://instagram.com/leticiacambui_" target="_blank"> <img height="22em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/leticia-cambui-m/" target="_blank"> <img height="22em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+   <img height="22em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/ >
    </div>
  
  </div>
